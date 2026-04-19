@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+docker-pr*
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Evidencias (opcional - si quieres subir las imágenes, comenta esta línea)
+# evidencias/*.png
+
