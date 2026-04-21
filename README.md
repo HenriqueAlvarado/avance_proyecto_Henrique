@@ -80,3 +80,5 @@ docker ps
 
 # 6. Abrir en navegador
 http://http://10.0.1.207/:5000
+
+<img width="1044" height="258" alt="image" src="https://github.com/user-attachments/assets/6892dbac-c34e-4224-8f76-144dd5391024" />
